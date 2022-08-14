@@ -54,8 +54,7 @@ header p {
   border-radius: 7px;
   padding: 30px;
   text-align: right;
-  box-shadow: 10px 10px 2px 1px rgba(0, 0, 0, .2)
-}
+ box-shadow: 0 0.9375rem 2.625rem -0.6875rem rgb(131 166 210 / 40%);
 
 .box-text {
   text-align: left;
